@@ -1,0 +1,2 @@
+# almabettergit
+ my first repsitory
